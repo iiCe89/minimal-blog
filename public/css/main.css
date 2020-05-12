@@ -1,0 +1,24 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.head-section {
+  min-height: 400px;
+  height: auto;
+  background-color: #FBFBFB;
+}
+
+.bg-latest {
+  background-color: #F7FAFC;
+}
+
+.btn-more {
+  background-color: #6B46C1;
+  color: white;
+}
+
+.btn-more:hover {
+  background-color: #230A5F;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
